@@ -1,8 +1,8 @@
 pytwist
 ==============================
 [//]: # (Badges)
-[![GitHub Actions Build Status](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/pytwist/workflows/CI/badge.svg)](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/pytwist/actions?query=workflow%3ACI)
-[![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/pytwist/branch/main/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/pytwist/branch/main)
+[![GitHub Actions Build Status](https://github.com/gabriele16/pytwist/workflows/CI/badge.svg)](https://github.com/gabriele16/pytwist/actions?query=workflow%3ACI)
+[![codecov](https://codecov.io/gh/gabriele16/pytwist/branch/main/graph/badge.svg)](https://codecov.io/gh/gabriele16/pytwist/branch/main)
 
 
 computational materials science package for twisted 2D materials
