@@ -10,7 +10,7 @@ description = "computational materials science package for twisted 2D materials"
 dynamic = ["version"]
 readme = "README.md"
 authors = [
-    { name = "Gabriele Tocci", email = "gabriele.tocci@chem.uzh.ch" }
+    { name = "Gabriele Tocci" }
 ]
 license = { text = "MIT" }
 # See https://pypi.org/classifiers/
