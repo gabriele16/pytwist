@@ -7,6 +7,7 @@ def canvas(with_attribution=True):
 
     Replace this function and doc string for your own project.
 
+    
     Parameters
     ----------
     with_attribution : bool, Optional, default: True
